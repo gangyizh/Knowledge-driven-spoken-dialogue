@@ -1,0 +1,6 @@
+bart-large-chinese: https://huggingface.co/fnlp/bart-large-chinese
+ernie-3.0-base-zh: https://huggingface.co/nghuyong/ernie-3.0-base-zh
+ernie-1.0-base-zh: https://huggingface.co/nghuyong/ernie-1.0-base-zh
+chinese-macbert-base: https://huggingface.co/hfl/chinese-macbert-base
+chinese-roberta-wwm-ext: https://huggingface.co/hfl/chinese-roberta-wwm-ext
+dialogue-bart-large-chinese: https://huggingface.co/HIT-TMG/dialogue-bart-large-chinese
